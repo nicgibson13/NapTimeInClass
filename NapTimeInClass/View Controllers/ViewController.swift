@@ -141,7 +141,7 @@ extension ViewController {
         // Set the features of the Notification Content based on what you asked the user permission for
         notificationContent.badge = 1000
         notificationContent.title = "Wake up"
-        notificationContent.subtitle = "You're alerm is finishd!!!!"
+        notificationContent.subtitle = "Your alarm is finished!!!!"
         notificationContent.sound = .default
         
         // We need to set up when the Notification should fire
